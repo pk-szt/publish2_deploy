@@ -1,3 +1,9 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "files.exclude": {
+        ".gitignore": true,
+        ".history": true,
+        "README.md": true,
+        ".vscode": true
+    }
 }
